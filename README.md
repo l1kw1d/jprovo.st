@@ -1,6 +1,4 @@
-# jprovo.st
-Website - just another small modern website
-
+### Website - just another small modern website
 
 # [jprovo.st](https://jprovo.st)
 
