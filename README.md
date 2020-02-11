@@ -2,7 +2,7 @@
 
 # [jprovo.st](https://jprovo.st)
 
-![](https://i.imgur.com/gFX4rNl.png)
+![](https://i.imgur.com/Tle22lm.png)
 
 [Visualiser le rapport en ligne](https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https://jprovo.st)
 
