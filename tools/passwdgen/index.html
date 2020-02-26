@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Random Passwords</title>
+<link href="main.3a21c774d3129f633f18.css" rel="stylesheet"></head>
+<body>
+
+  <main class="container">
+    <h1>Random Passwords</h1>
+
+    <p>Password generator built on the <a href="https://www.npmjs.com/package/secure-random-password">secure-random-password</a> library. Uses the cryptographically secure random number generator <a href="https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues">built-in to your browser</a>.</p>
+
+    <section id="passwords">
+      <input readonly />
+      <input readonly />
+      <input readonly />
+      <input readonly />
+      <input readonly />
+      <input readonly />
+      <input readonly />
+      <input readonly />
+
+      <p><button id="regenerate">Regenerate</button></p>
+    </section>
+
+    <section>
+      <h3>Generator Settings</h3>
+
+      <p id="error"></p>
+
+      <fieldset>
+        <label for="length-number">Length:</label>
+        <input id="length-slider" type="range" max="32" value="12" />
+        <input id="length-number" type="number" value="12" required />
+      </fieldset>
+
+      <table id="classes" class="pure-table">
+        <thead>
+          <tr>
+            <th>Include?</th>
+            <th>Characters</th>
+            <th>Exact #</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><input id="lower" type="checkbox" checked /></td>
+            <td><label for="lower">abcdefghijklmnopqrstuvwxyz</label></td>
+            <td><input class="exactly" type="number" min="1" placeholder="unlimited" /></td>
+          </tr>
+          <tr>
+            <td><input id="upper" type="checkbox" checked /></td>
+            <td><label for="upper" class="value">ABCDEFGHIJKLMNOPQRSTUVWXYZ</label></td>
+            <td><input class="exactly" type="number" min="1" value="1" placeholder="unlimited" /></td>
+          </tr>
+          <tr>
+            <td><input id="digits" type="checkbox" /></td>
+            <td><label for="digits" class="value">1234567890</label></td>
+            <td><input class="exactly" type="number" min="1" value="1" placeholder="unlimited" /></td>
+          </tr>
+          <tr>
+            <td><input id="symbols" type="checkbox" checked /></td>
+            <td><label for="symbols" class="value">!@#$%^&amp;*()</label></td>
+            <td><input class="exactly" type="number" min="1" value="1" placeholder="unlimited" /></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+  </main>
+
+  <footer>
+    Built by <a href="https://www.codetinkerer.com/">Michael Kropat</a>. Source code <a href="https://github.com/mkropat/password-site">released</a> under MIT license. <a href="https://mblode.github.io/marx/">Theme</a> by Matthew Blode.
+  </footer>
+
+  <script>
+    setTimeout(() => {
+      'use strict';
+
+      const getPasswordBoxes = () => document.getElementById('passwords')
+        .querySelectorAll('input');
+
+      const numPasswords = getPasswordBoxes().length;
+      const onChange = () => displayPasswords({ getPasswordBoxes, passwordStore, settings });
+
+      const settings = createSettings({
+        getErrorElement: () => document.getElementById('error'),
+        getCharacterClassesContainer: () => document.getElementById('classes'),
+        getLengthElements: () => [
+          document.getElementById('length-number'),
+          document.getElementById('length-slider'),
+        ],
+        onChange,
+      });
+
+      const passwordStore = createPasswordStore({
+        numPasswords,
+        onChange,
+        settings,
+      });
+
+      onChange();
+
+      document.getElementById('regenerate')
+        .addEventListener('click', () => passwordStore.regenerate());
+    });
+  </script>
+<script type="text/javascript" src="main.a3b0447e2f8c7ef140a2.js"></script></body>
+</html>
