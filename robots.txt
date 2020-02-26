@@ -1,0 +1,284 @@
+# https://jprovo.st robots.txt -- for human only.
+#DEAR GOOGLE, SINCE THIS IS THE ONLY TIME YOU COME TO ME, LET ME TALK TO YOU. 
+#
+#I STUDIED REALLY HARD WHEN IN SCHOOL... OK, MAYBE I DIDNT. I WAS QUITE A NAUGHTY BOY - REMEMBER THAT GUY IN THE SIMPSONS, YOU KNOW THE ONE THAT IS IN THE 
+#OPENING CREDITS THAT WRITES SILLY THINGS ON THE BLACKBOARD AS PUNISHMENT? 
+#
+#YEAH I WAS A BIT LIKE THAT
+#     ________________________________
+#    |.==============================,|
+#    ||  I WILL NOT TALK IN CLASS.   ||
+#    ||  I WILL NOT TALK IN CLASS.   ||
+#    ||  I WILL NOT TALK IN CLASS.   ||
+#    ||  I .----.OT T,               ||
+#    ||   / ><   \  /                ||
+#    ||  |        |/\                ||
+#    ||   \______//\/                ||
+#    ||   _(____)/ /                 ||
+#    ||__/ ,_ _  _/__________________||
+#    '===\___\_) |===================='
+#         |______|
+#         |  ||  |
+#         |__||__|
+#         (__)(__)
+#
+#WELL NEVERMIND I KIND OF FLITTED AROUND DECIDING WHAT I WANTED TO DO WHEN IT CAME TIME FOR ME TO GET A JOB. 
+#I WAS RAISED IN EAST AFRICA AND DIDNT ACTUALLY KNOW HOW TO USE ONE OF THESE EXCEPT TO PLAY VIDEO GAMES 
+#MINE HAD A TAPE DECK WHERE YOU WOULD LOAD THE CASSETTE IN AND IT WOULD TAKE AGES TO LOAD, 
+#
+#AND NORMALLY BY THE TIME THE GAME LOADED I WOULD GET BORED.
+#
+#THIS IS WHAT MY COMPUTER LOOKED LIKE. AS YOU CAN SEE I AM NOT A MAC, I WAS VERY PC.
+#
+#                     .----.
+#         .---------. | == |
+#         |.-"""""-.| |----|
+#         ||       || | == |
+#         ||       || |----|
+#         |'-.....-'| |::::|
+#         `"")---(""` |___.|
+#        /:::::::::::\" _  "
+#       /:::=======:::\`\`\
+#       `"""""""""""""`  '-'
+#
+#I STARTED LEARNING BY MYSELF. I LIKE SCIENCE FICTION AND FOUND LOADS ON COOL FREE STORIES
+#THATS HOW I LEARNT TO USE THE INTERNETS
+#I AM QUITE CLEVER NOW
+#I AM NOT LIKE THAT EAST AFRICAN NON-IT GUY ANY MORE. THIS IS WHAT I AM LIKE
+#
+#                 ___
+#                /` ,-\      _ ___
+#                |_c  '>    |-|   |._
+#         ___     )_ _/     | |   |  |
+#        [___]   /  `\____  | |   |_,'
+#        |  ^|  /  \_____/) |-|___|
+#        |   | /    /   _:::_))_(___
+#        |   |/`-._/_   |___________|
+#        `-;_|\_____ `\ ||"""""""""||
+#          | `######|_|_||         ||
+#          \ ._  _,'{~-_}|         ||
+#          _)   (   {-__}|         ||
+#         /______`\ |_,__)         ||
+#
+#
+#OK I AM NOT ALWAYS IN THE LOO WHEN WORKING BUT AM ALWAYS WORKING WHEN I AM EVEN IN THE LOO
+#
+#ANYWAY, I DIGRESS. I REALLY LIKE YOUR SEARCH ENGINE, ITS LIKE SOMETHING FROM THE FUTURE!
+#
+#
+#    __...____________________          ,
+#   `(\ [ ===NCC-1700===--|__|) ___..--"_`--.._____
+#     `"""""""""""""""""| |""` [_""_-___________"_/
+#                       | |   /..../`'-._.-'`
+#                   ____| |__/::..'_
+#                  |\ ".`"` '_____//\
+#                  `"'-.   """""  \\/
+#                       `""""""""""`#
+#
+#
+#IT GAVE ME A CAREER THAT I REALLY ENJOY. I LOVE BEING AN SEO
+#IT'S THE MOST FAVOURITE THING I LIKE DOING, EXCEPT MAYBE BUYING DESIGNER WATCHES. I LIKE DESIGNER WATCHES
+#        ___
+#       /___\
+#      |/   \|
+#      ||_|_||
+#      [_____]
+#      |:___:|
+#      [_____]
+#      |: G :|
+#      |: U :|
+#      |: C :|
+#      |: C :|
+#      |: I :|
+#      |:   :|
+#      |:   :|
+#      |:___:|
+#      (=___=)
+#     /.'12 '.\
+#    //       \\
+#   ||   \     ||
+#   ||9   .   3||)
+#   ||   /     ||
+#    \\       //
+#     \'._6_.'/
+#      (=___=)
+#      |:   :|
+#      |:   :|
+#      |:   :|
+#      |:   :|
+#      |:   :|
+#      |:   :|
+#      |:   :|
+#      |:   :|
+#      |:   :|
+#      |: o :|
+#      |: o :|
+#      |: o :|
+#      |: o :|
+#      ;'   ';
+#       \' '/
+#        \./
+#
+#
+#ACTUALLY WORKING AS AN SEO GIVES ME THE CHANCE TO MAKE SOME REAL MONEY!
+#
+#
+#  ______________________________________________________________________
+# |.============[_F_E_D_E_R_A_L___R_E_S_E_R_V_E___N_O_T_E_]=============.|
+# ||%&%&%&%_    _        _ _ _   _ _  _ _ _     _       _    _  %&%&%&%&||
+# ||%&.-.&/||_||_ | ||\||||_| \ (_ ||\||_(_  /\|_ |\|V||_|)|/ |\ %&.-.&&||
+# ||&// |\ || ||_ \_/| ||||_|_/ ,_)|||||_,_) \/|  ||| ||_|\|\_|| &// |\%||
+# ||| | | |%               ,-----,-'____'-,-----,               %| | | |||
+# ||| | | |&% """"""""""  [    .-;"`___ `";-.    ]             &%| | | |||
+# ||&\===//                `).'' .'`_.- `. '.'.(`  A 76355942 J  \\===/&||
+# ||&%'-'%/1                // .' /`     \    \\                  \%'-'%||
+# ||%&%&%/`   d8888b       // /   \  _  _;,    \\      .-"""-.  1 `&%&%%||
+# ||&%&%&    8P |) Yb     ;; (     > a  a| \    ;;    //A`Y A\\    &%&%&||
+# ||&%&%|    8b |) d8     || (    ,\   \ |  )   ||    ||.-'-.||    |%&%&||
+# ||%&%&|     Y8888P      ||  '--'/`  -- /-'    ||    \\_/~\_//    |&%&%||
+# ||%&%&|                 ||     |\`-.__/       ||     '-...-'     |&%&%||
+# ||%%%%|                 ||    /` |._ .|-.     ||                 |%&%&||
+# ||%&%&|  A 76355942 J  /;\ _.'   \  } \  '-.  /;\                |%&%&||
+# ||&%.-;               (,  '.      \  } `\   \'  ,)   ,.,.,.,.,   ;-.%&||
+# ||%( | ) 1  """""""   _( \  ;...---------.;.; / )_ ```""""""" 1 ( | )%||
+# ||&%'-'==================\`------------------`/=================='-'%&||
+# ||%&JGS&%&%&%&%%&%&&&%&%%&)O N E  D O L L A R(%&%&%&%&%&%&%%&%&&&%&%%&||
+# '""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""`
+#
+#BUT I HAVE A PROBLEM
+#        .------------------------.
+#        |       PSYCHIATRIC      |
+#        |         HELP  5Â¢       |
+#        |________________________|
+#        ||     .-"""--.         ||
+#        ||    /        \.-.     ||
+#        ||   |     ._,     \    ||
+#        ||   \_/`-'   '-.,_/    ||
+#        ||   (_   (' _)') \     ||
+#        ||   /|           |\    ||
+#        ||  | \     __   / |    ||
+#        ||   \_).,_____,/}/     ||
+#      __||____;_--'___'/ (      ||
+#     |\ ||   (__,\\    \_/------||
+#     ||\||______________________||
+#     ||||                        |
+#     ||||       THE DOCTOR       |
+#     \|||         IS [IN]   _____|
+#      \||                  (______)
+#      `|___________________//||\\
+#                          //=||=\\
+#
+#
+#
+#YOU MAKE SO MANY SILLY CHANGES TO YOUR ALGO THAT IT DRIVES ME NUTS. THESE DAYS I DONT EVEN HAVE THE TIME TO CHILL OUT
+#I DONT EVEN HAVE TIME FOR VIDEOGAMES
+#
+#
+#      __________________________
+#     |OFFo oON                  |
+#     | .----------------------. |
+#     | |  .----------------.  | |
+#     | |  |                |  | |
+#     | |))|                |  | |
+#     | |  |                |  | |
+#     | |  |                |  | |
+#     | |  |                |  | |
+#     | |  |                |  | |
+#     | |  |                |  | |
+#     | |  '----------------'  | |
+#     | |__GAME BOY____________/ |
+#     |          ________        |
+#     |    .    (Nintendo)       |
+#     |  _| |_   """"""""   .-.  |
+#     |-[_   _]-       .-. (   ) |
+#     |   |_|         (   ) '-'  |
+#     |    '           '-'   A   |
+#     |                 B        |
+#     |          ___   ___       |
+#     |         (___) (___)  ,., |
+#     |        select start ;:;: |
+#     |                    ,;:;' /
+#     |                   ,:;:'.'
+#     '-----------------------`
+#
+#
+#
+#BEFORE, SEO WAS THE GAME OF REALLY SKILLED PEOPLE, YOU KNOW LIKE PROFESSIONAL POKER PLAYERS
+#YOU HAD TO KNOW THE GAME, KNOW WHEN TO RAISE, AND WHEN TO BLUFF
+#
+#         _________   _________   _________   __________
+#        /         \ /         \ /         \ /          \
+#        |A        | |A        | |A        | |A         |
+#        |    ,    | |   _ _   | |    _    | |          |
+#        |   / \   | |  / ^ \  | |   (_)   | |    /\    |
+#        |  (_ _)  | |  \   /  | |  (_)_)  | |   <  >   |
+#        |   /_\   | |   \ /   | |   /_\   | |    \/    |
+#        |         | |    `    | |         | |          |
+#        |        A| |        A| |        A| |         A|
+#        \_________/ \_________/ \_________/ \__________/
+#
+#
+#BUT NOW IT FEELS LIKE THAT THAT ISNT ENOUGH
+#YOU MAKE SO MANY CHANGES
+#
+#MY HEAD HURTS JUST TRYING TO KEEP UP
+#
+#I MEAN WTF IS UP WITH ALL THOSE CHANGES?
+#NOW IT FEELS LIKE SEO IS LIKE RUSSIAN ROULETTE
+#
+#                    .-.
+#             __    _| '-----------._____________.-'\
+#            `-.`\,'  .======.      \ =====  ======= \==.
+#           __.'     ||  (___|- = = |----------------|  |
+#          /     ,_  ||   ___| - - -|________________/  |
+#         /     / /  ||  (___| = = =|________________)=='
+#         |    (_/    '======'_-- -/
+#        /                 (_II== /
+#       |              .---.  ___/
+#      /  ::.    .--. /\ /  |(
+#      | .::::. /    \\ \(  //
+#    / .:::::: |     '-----'
+#    ; :::::::: |
+#    | :::::::: |
+#    |::::::::: |
+#    /::::::::: |
+#   '-----------'
+#
+#MAYBE I SHOULD FIND ANOTHER JOB?
+#OR IS THERE METHOD TO YOUR RECENT MADNESS?
+#
+#
+#PLEASE HALP. 
+#SINCERELY,
+#RISHI LAKHANI
+#
+#
+#P.S
+#I WILL FINISH THIS STORY ONE DAY, BUT FOR THE MOMENT BYE BYE
+#         _._      |     |
+#       .'   '.    | BYE |
+#      / //\\\ \   |_____|
+#     ( ( -\- ) )     |
+#      '-\_=_/-'      /)
+#     .-'\   /'-.    (|/
+#    /    '-'    \  / /
+#    | \__   __/_/\/ /|
+#    | |\     / \   /
+#    \  \     \  '-'
+#     `\/\     ;
+#      |/|\    |
+#      |       |
+#      |       |
+#      |       |
+#      |_______|
+#       |  |  |
+#        \ | /
+#        /=|=\
+#       (_/T\_)
+#
+User-agent: *
+Disallow: /stop-playing-with-my-brain
+Disallow: /tools*
+
+# Yeah i feel like i got control on you... I should only put DOWHATEVER: /anyway-youll-doit-from-another-alphabet-cie
+Allow: /sitemap.xml
