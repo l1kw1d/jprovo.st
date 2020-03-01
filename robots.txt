@@ -281,4 +281,9 @@ Disallow: /stop-playing-with-my-brain
 Disallow: /tools*
 
 # Yeah i feel like i got control on you... I should only put DOWHATEVER: /anyway-youll-doit-from-another-alphabet-cie
+Allow: /index.html
+Allow: /about.html
+Allow: /contact.html
+Allow: /interest.html
+Allow: /tools/passwdgen/
 Allow: /sitemap.xml
