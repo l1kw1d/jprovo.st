@@ -21,7 +21,7 @@ Autre demo: [bunkers.co](https://bunkers.co) -
 ### [DigitalOcean](https://pin.plus/DO)
 
 ### [VOIP best plans](https://pin.plus/FREECALL)
--Looking for amazing technologies? Look @ Zombies Website: [Portfolio](https://zombie.technology/)
+Looking for amazing technologies? Look @ Zombies Website: [Portfolio](https://zombie.technology/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=l1kw1d&show_icons=true)
 
@@ -31,3 +31,5 @@ Autre demo: [bunkers.co](https://bunkers.co) -
 [![Facebook Badge](https://img.shields.io/badge/JP-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://pin.plus/FB)](https://pin.plus/FB)
 [![Twitter Badge](https://img.shields.io/badge/@sansmotdepasse-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://pin.plus/TW)](https://pin.plus/TW)
 <h2><a href="https://pin.plus/JP"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a> See you on the next projects! *grins*</h2>
+
+![visitor](https://visitor-badge.glitch.me/badge?page_id=l1kw1d.l1kw1d)
