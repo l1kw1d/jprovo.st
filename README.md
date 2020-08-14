@@ -21,6 +21,9 @@ Autre demo: [bunkers.co](https://bunkers.co) -
 ### [DigitalOcean](https://pin.plus/DO)
 
 ### [VOIP best plans](https://pin.plus/FREECALL)
+-Looking for amazing technologies? Look @ Zombies Website: [Portfolio](https://zombie.technology/)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=l1kw1d&show_icons=true)
 
 [![Linkedin Badge](https://img.shields.io/badge/-JProvost-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-provost-it/)](https://pin.plus/LINKEDIN) 
 [![Microsoft Exchange Badge](https://img.shields.io/badge/Microsoft-Exchange-0078D4?style=flat-square&logo=Exchange&logoColor=white&link=mailto:reports@multi.live)](mailto:reports@multi.live)
