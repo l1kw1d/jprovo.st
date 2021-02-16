@@ -1,4 +1,4 @@
-### Website - just another small modern website
+### Website - just another small modern website | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/l1kw1d/webuptime/master/api/j-provost-my-website/uptime.json)
 
 ## [jprovo.st](https://jprovo.st)
 
