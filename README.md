@@ -18,7 +18,7 @@ Demo rapide pour client(s) , pour demontrer site performant , repondant aux crit
 
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://jprovo.st)
 
-Looking for amazing technologies? Look @ Zombies Website: [Portfolio](https://zombie.technology/)
+[![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://jprovo.st)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=l1kw1d&show_icons=true)
 
