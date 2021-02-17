@@ -12,15 +12,8 @@
 
 Demo rapide pour client(s) , pour demontrer site performant , repondant aux criteres des moteurs de recherches, facile a deployer.
 
-Autre demo: [bunkers.co](https://bunkers.co) -
-            [ex.fail](https://ex.fail) 
-### [Documentations](https://s.ex.fail/HOWTO)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://jprovo.st)
 
-### [Hosting](https://pin.plus/HOSTING)
-
-### [DigitalOcean](https://pin.plus/DO)
-
-### [VOIP best plans](https://pin.plus/FREECALL)
 Looking for amazing technologies? Look @ Zombies Website: [Portfolio](https://zombie.technology/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=l1kw1d&show_icons=true)
