@@ -1,6 +1,6 @@
 ### Website - just another small modern website | ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/l1kw1d/webuptime/master/api/j-provost-my-website/uptime.json)
 
-## [jprovo.st](https://jprovo.st)
+## [jprovo.st](https://jprovo.st) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T33V0BG)
 
 ![](https://i.imgur.com/Tle22lm.png)
 
