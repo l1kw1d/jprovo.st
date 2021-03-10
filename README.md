@@ -30,5 +30,3 @@ Demo rapide pour client(s) , pour demontrer site performant , repondant aux crit
 <h2><a href="https://pin.plus/JP"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></a> See you on the next projects! *grins*</h2>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=l1kw1d.l1kw1d)
-
-[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-blue.png)](https://www.buymeacoffee.com/timhortons)
