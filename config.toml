@@ -1,0 +1,43 @@
+baseURL = "https://jprovo.st/"
+languageCode = "en-us"
+title = "J.Provost | CyberSec, Multi talents In-Demand Tech Skills"
+theme = "hallo"
+defaultContentLanguage = "fr"
+tags = ["minimal", "clean", "responsive", "simple", "personal", "starter", "single page", "onepage", "Font Awesome", "landing page"]
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "J.Provost"
+
+[params]
+    [params.colors]
+        background = "#cafbff"
+        foreground = "#fff"
+        hover = "#ffba82"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://pin.plus/GIT"
+
+    [[params.links]]
+        icon = "facebook"
+        title = "Facebook"
+        url = "https://pin.plus/FB"
+
+    [[params.links]]
+        icon = "linkedin"
+        title = "Linkedin"
+        url = "https://pin.plus/LINKEDIN"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://pin.plus/TW"
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:reports@multi.live"
+

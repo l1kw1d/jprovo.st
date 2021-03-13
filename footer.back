@@ -1,0 +1,7 @@
+<footer>
+    <div class="column"></div>
+    <div class="column">
+    <p>Hello World</p>
+        {{ i18n "generator" | safeHTML }}
+    </div>
+</footer>
